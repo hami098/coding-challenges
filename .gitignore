@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# Sistem
+.DS_Store
+Thumbs.db
